@@ -4,5 +4,5 @@
 <p align="center">
 <a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
 <a href="https://discord.gg/zzHJKnS5Tj">
-<img src="https://img.shields.io/discord/1090752398357708913?style=for-the-badge&logo=discord&label=Neo"></img>
+<img src="https://img.shields.io/discord/1118095014795419669?style=for-the-badge&logo=discord&label=Neo"></img>
 </a>
