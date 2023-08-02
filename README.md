@@ -52,7 +52,5 @@ We could but really our main focus is i-Ready exploits. There is plenty of explo
 <h2 align="center">Misc</h2>
 
 <p align="center">
-The epic collab between wang-fr and notplu!<br><br>
-Credits to cupiditys, and wang for originally making this, (but some deleted their repo).<br><br>
-HUGE credit to wang-fr for creating the Lesson Skipper. This hack wouldn't be as great as it is without their help.<br><br>
-Godlike is under the GNU General Public License v3.0. Learn more <a href="https://github.com/notplu/Nullify/blob/main/LICENSE">here</a>.</p>
+Made ONLY by Lenn106!<br><br>
+Godlike is under the GNU General Public License v3.0. Learn more <a href="https://github.com/Patheticlol/neo/blob/main/LICENSE">here</a>.</p>
