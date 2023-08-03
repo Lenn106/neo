@@ -31,9 +31,9 @@ You might have an outdated version (which is fairly common) or you might have co
   <details>
   	<summary><b>Is there something like this for other school related programs?</b></summary>
 
-  You can join the discord and ask for something to be made. ~~but your best option are some of the following:~~
+  You can join the discord and ask for something to be made.
   <ul>
-<li>Insert hecking server here</li>
+<li>https://dsc.gg/neomenu</li>
   </ul>
   </details>
 
@@ -53,4 +53,4 @@ We could but really our main focus is i-Ready exploits. There is plenty of explo
 
 <p align="center">
 Made ONLY by Lenn106!<br><br>
-Godlike is under the GNU General Public License v3.0. Learn more <a href="https://github.com/Patheticlol/neo/blob/main/LICENSE">here</a>.</p>
+Neo is under the GNU General Public License v3.0. Learn more <a href="https://github.com/Patheticlol/neo/blob/main/LICENSE">here</a>.</p>
