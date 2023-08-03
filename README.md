@@ -52,5 +52,5 @@ We could but really our main focus is i-Ready exploits. There is plenty of explo
 <h2 align="center">Misc</h2>
 
 <p align="center">
-Made ONLY by Lenn106!<br><br>
+This is a community project, but as of right now all code is produced by Lenn106.<br><br>
 Neo is under the GNU General Public License v3.0. Learn more <a href="https://github.com/Patheticlol/neo/blob/main/LICENSE">here</a>.</p>
