@@ -1,4 +1,4 @@
-<h1 align="center">Neo</h1>
+
   <h2 align="center">Beta Lesson Skipper and Auto Answer!</h2>
 <p align="center">
 </a>
