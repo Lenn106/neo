@@ -5,6 +5,7 @@
 </p>
 
 <p align="center">
+<p>This code can be decoded, but works better obfuscated. The encoding makes it the slighest bit harder for CA to patch.<p>
 Welcome to Neo, the second-best i-Ready hack, compared to wang's demo menu and Nullify!<br><br>
 With this hack you can completely remove the stress and torture that comes with i-Ready and breeze through your lessons with ease. This IS NOT related with the old version, which never worked.</p>
 
